@@ -1,3 +1,25 @@
-# 3-LayerNN
-This 3-Layer Neural Network was created to recognize Handwritten Digits.
-With a final accuracy of 98%, this model was created only with mathematical knowledge and NumPy.
+# 3-Layer Deep Neural Network from Scratch
+
+## Overview
+An advanced neural network built entirely from scratch, featuring three layers for deeper feature extraction and classification.  
+This model demonstrates the scalable architecture principles needed for real-world complex data tasks.
+
+## Key Features
+- 🧠 **3-Layer MLP**: Two hidden layers enabling complex pattern recognition.
+- ⚡ **Manual Forward/Backward Passes**: Deep understanding of neural network internals.
+- 🎯 **Visualization of Learning Curves**: Insight into model convergence.
+- 🛠️ **Customizable Architecture**: Easily tweak layer sizes, activation functions, and learning rates.
+
+## Outcomes
+- Building and scaling deeper neural networks
+- Managing vanishing/exploding gradients
+- Understanding layer stacking for complex decision boundaries
+
+## Tech Stack
+- Python
+- NumPy
+- Matplotlib
+
+```bash
+Look at jupyter notebook
+
