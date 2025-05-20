@@ -7,7 +7,7 @@ This model demonstrates the scalable architecture principles needed for real-wor
 ## Key Features
 - 🧠 **3-Layer MLP**: Two hidden layers enabling complex pattern recognition.
 - ⚡ **Manual Forward/Backward Passes**: Deep understanding of neural network internals.
-- 🎯 **Visualization of Learning Curves**: Insight into model convergence.
+- 🎯 **Use of Softmax**: Generates probabilities, making it easy to choose the most likely class and train the model effectively.
 - 🛠️ **Customizable Architecture**: Easily tweak layer sizes, activation functions, and learning rates.
 
 ## Outcomes
